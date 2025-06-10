@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\bin\Debug\net8.0\AbsAndAbsmethod.exe
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\bin\Debug\net8.0\AbsAndAbsmethod.deps.json
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\bin\Debug\net8.0\AbsAndAbsmethod.runtimeconfig.json
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\bin\Debug\net8.0\AbsAndAbsmethod.dll
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\bin\Debug\net8.0\AbsAndAbsmethod.pdb
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.AssemblyInfo.cs
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.sourcelink.json
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.dll
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\refint\AbsAndAbsmethod.dll
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.pdb
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\AbsAndAbsmethod.genruntimeconfig.cache
+C:\Users\USER\source\repos\AbsAndAbsmethod\AbsAndAbsmethod\obj\Debug\net8.0\ref\AbsAndAbsmethod.dll
